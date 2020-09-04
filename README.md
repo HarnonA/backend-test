@@ -11,7 +11,7 @@ npm i
 
 <b> Postgres </b></br>
 sudo -u postgres psql
-CREATE DATABASE rogalabsdb;
+CREATE DATABASE rogalabsdb;</br>
 !! you must insert your postgres password in <b>knexfile.js</br> !!
 
 <b> Migration </b></br>
