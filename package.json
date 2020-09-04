@@ -1,0 +1,23 @@
+{
+  "name": "rogalabs",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon",
+    "migrate": "knex migrate:latest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "nodemon": "^2.0.4",
+    "pg": "^8.3.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
