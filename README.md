@@ -1,24 +1,24 @@
 <h2>It's necessary Node.js, Postgres and npm</h2>
 
 <h3>Clone Repository</h3>
-git clone https://github.com/HarnonA/backend-test.git
+<p>git clone https://github.com/HarnonA/backend-test.git</p>
 
 <h3>Go to server folder</h3>
-cd backend-test
+<p>cd backend-test</p>
 
 <h3>Install Dependencies</h3>
-npm i
+<p>npm i</p>
 
 </h3>Postgres </h3>
-sudo -u postgres psql
-CREATE DATABASE rogalabsdb;</br>
-! ! you must insert your postgres password in <b>knexfile.js ! !</br>
+<p>sudo -u postgres psql</p>
+<p>CREATE DATABASE rogalabsdb;</p>
+<p> * you must insert your postgres password in <b>knexfile.js *</p>
 
 </h3>Migration</h3>
-npm run migrate
+<p>npm run migrate</p>
 
 </h3>Run server</h3>
-npm start
+<p>npm start</p>
 
 
 
