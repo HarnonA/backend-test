@@ -15,7 +15,7 @@ module.exports = {
   connection: {
     database: 'rogalabsdb1',
     user: 'postgres',
-    password: 'my1234'
+    password: ''
   },
   pool: {
     min: 2,
