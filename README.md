@@ -1,21 +1,22 @@
 <h2>It's necessary Node.js, Postgres and npm</h2>
-<b> Clone Repository </b>
+
+<b> Clone Repository </b></br>
 git clone https://github.com/HarnonA/backend-test.git
 
-<b> Go to server folder </b>
+<b> Go to server folder </b></br>
 cd backend-test
 
-<b> Install Dependencies </b>
+<b> Install Dependencies </b></br>
 npm i
 
-<b> Postgres </b>
+<b> Postgres </b></br>
 sudo -u postgres psql
 CREATE DATABASE rogalabsdb;
 
-<b> Migration </b>
+<b> Migration </b></br>
 npm run migrate
 
-<b> Run server </b>
+<b> Run server </b></br>
 npm start
 
 
