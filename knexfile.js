@@ -13,7 +13,7 @@ module.exports = {
 
   client: 'postgresql',
   connection: {
-    database: 'rogalabsdb1',
+    database: 'rogalabsdb',
     user: 'postgres',
     password: ''
   },
