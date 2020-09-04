@@ -1,5 +1,5 @@
 <h2>It's necessary Node.js, Postgres and npm</h2>
-
+<div>
 # Clone Repository
 $ git clone https://github.com/HarnonA/backend-test.git
 
@@ -18,6 +18,6 @@ $ npm run migrate
 
 # Run server
 $ npm start
-
+</div>
 
 
