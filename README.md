@@ -9,15 +9,15 @@
 <h3>Install Dependencies</h3>
 <p>npm i</p>
 
-</h3>Postgres </h3>
+<h3>Postgres</h3>
 <p>sudo -u postgres psql</p>
 <p>CREATE DATABASE rogalabsdb;</p>
 <p> * you must insert your postgres password in <b>knexfile.js *</p>
 
-</h3>Migration</h3>
+<h3>Migration</h3>
 <p>npm run migrate</p>
 
-</h3>Run server</h3>
+<h3>Run server</h3>
 <p>npm start</p>
 
 
