@@ -12,7 +12,7 @@
 <h3>Postgres</h3>
 <p>sudo -u postgres psql</p>
 <p>CREATE DATABASE rogalabsdb;</p>
-<p> * you must insert your postgres password in <b>knexfile.js *</p>
+<p> * you must insert your postgres password in <b>knexfile.js</b> *</p>
 
 <h3>Migration</h3>
 <p>npm run migrate</p>
